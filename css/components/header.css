@@ -1,0 +1,22 @@
+.header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.header h1 {
+    font-size: 48px;
+    font-weight: 500;
+    text-transform: uppercase;
+    width: 310px;
+
+    padding: 10px;
+    
+    border-bottom: 4px solid;
+    border-radius: 50px;
+}
+
+

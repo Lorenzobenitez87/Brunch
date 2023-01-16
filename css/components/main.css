@@ -1,0 +1,29 @@
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+main section {
+    color: white;
+    position: absolute;
+}
+
+.animations {
+    right: 100px;
+    border: 1px solid;
+    padding: 30px;
+    border-radius: 100px;
+    background: black;
+}
+
+.animations li {
+    font-size: 10px;
+}
+
+.formule li {
+    color: white;
+} 
+
+.formule p {
+    margin-bottom: 20px;
+}

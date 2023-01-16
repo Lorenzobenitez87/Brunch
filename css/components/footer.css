@@ -1,0 +1,10 @@
+footer {
+    position: relative;
+    top: 900px;
+    
+}
+
+footer p {
+    line-height: 25px;
+    font-size: 10px;
+}
