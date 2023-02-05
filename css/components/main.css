@@ -3,6 +3,10 @@ main {
     justify-content: space-between;
 }
 
+main li {
+    list-style-type: none;
+}
+
 main section {
     color: white;
     position: absolute;
