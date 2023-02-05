@@ -36,3 +36,17 @@ footer p {
     font-size: 14px;
     border: 1px solid white;
 }
+
+@media  screen and (max-width: 980px) {
+
+    footer {
+        position: static;
+        display: block;
+    }
+
+    .contact {
+        width: 100%;
+        background-color: white;
+        color: black;
+    }
+}

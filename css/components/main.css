@@ -34,3 +34,32 @@ main section {
     width: 280px;
     padding-left: 10px;
 }
+
+@media  screen and (max-width: 980px) {
+    
+    .paint img {
+       position: relative;
+       height: 400px;
+    }
+
+    .formule {
+        background-color: black;
+    }
+
+    .animations {
+        right: 0;
+        margin: 30px 30px;
+        color: black;
+        background-color: white;
+    }
+
+    main {
+        display: block;
+    }
+
+    main section {
+        position: relative;
+        padding: 30px;
+
+    }
+}

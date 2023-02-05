@@ -17,3 +17,13 @@
     height: 1500px;
     opacity: 1;
 }
+
+@media  screen and (max-width: 980px) {
+    .paint {
+        height: 400px;
+    }
+
+    .background-paint {
+        height: 400px;
+    }
+}

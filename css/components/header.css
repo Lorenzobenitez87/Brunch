@@ -19,4 +19,13 @@
     border-radius: 50px;
 }
 
+@media  screen and (max-width: 980px) {
+    
+    .header {
+       justify-content: center;
+       flex-direction: column;
+       background-color: black;
+    }
+}
+
 
