@@ -26,6 +26,15 @@
        flex-direction: column;
        background-color: black;
     }
+
+    header h2 {
+        margin-top: 10px;
+        font-size: 16px;
+    }
+
+    header p {
+        font-size: 10px;
+    }
 }
 
 
