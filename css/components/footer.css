@@ -1,10 +1,38 @@
 footer {
     position: relative;
-    top: 900px;
-    
+    top: 950px;
+    color: black;
+    font-weight: lighter;
+    display: flex;
+    justify-content: space-between;
 }
 
 footer p {
     line-height: 25px;
-    font-size: 10px;
+    font-size: 18px;
+}
+
+.contact {
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    height: 70px;
+    width: 260px;
+    font-size: 14px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.inclus {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 0;
+    border-radius: 25px;
+    height: 140px;
+    font-size: 14px;
+    border: 1px solid white;
 }
